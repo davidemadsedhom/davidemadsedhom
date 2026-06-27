@@ -1,5 +1,4 @@
-# David Emad - Programming Projects
-
+# David Emad
 **EELU - Faculty of Computers & Information**  
 **Third Year - Credit Hour System**  
 **Assiut Branch** 🎓
@@ -92,7 +91,6 @@ Collection of Python and Java projects for learning and academic practice.
 ## 📞 Contact & Links
 
 - **Email**: [davidemadsedhom@gmail.com]
-- **GitHub**: [Your GitHub Profile URL]
 - **University**: EELU - Assiut Branch
 - **Location**: Assiut, Egypt 🇪🇬
 
